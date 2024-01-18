@@ -3,3 +3,6 @@ def NewFunction():
 
 print("Hello")
 NewFunction()
+
+print("NewAction")
+print("Any")
