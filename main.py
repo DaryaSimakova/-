@@ -1,2 +1,5 @@
-print("Hello")
+def NewFunction():
+    print("!!!")
 
+print("Hello")
+NewFunction()
